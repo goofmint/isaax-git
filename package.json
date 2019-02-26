@@ -1,0 +1,15 @@
+{
+  "name": "red",
+  "version": "1.0.0",
+  "description": "",
+  "main": "setting.js",
+  "scripts": {
+    "start": "node-red -s ./setting.js -u conf/",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-red": "^0.19.6"
+  }
+}
