@@ -7,6 +7,6 @@
   "language":"node",
   "license": "",
   "scripts": {
-     "start": "npm run start"
+     "start": "sh deploy.sh"
     }
 }

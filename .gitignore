@@ -6,3 +6,5 @@ conf/flows_macbookpro-2.local.json conf/flows_macbookpro-2.local_cred.json
 conf/package.json
 .DS_Store
 package-lock.json
+package.json
+conf/flows_cred.json
